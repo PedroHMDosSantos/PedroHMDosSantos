@@ -14,30 +14,20 @@ Tenho experiência como Jovem Aprendiz na AASP, atuando no suporte técnico de T
 
 Busco constantemente evoluir através de projetos práticos e estudos, com o objetivo de iniciar minha carreira como desenvolvedor.
 
----
 
 ## 🚀 Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScrpit-grey?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-* **Linguagens:** Python, JavaScript, PHP
-* **Web:** HTML
-* **Banco de dados:** MySQL
-* **Ferramentas:** Git, GitHub
-* **Outros:** Montagem e manutenção de computadores
-* <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
-</p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
----
 
 ## 📂 Projetos
 
-### ⚡ Downloader de vídeos (.m3u8)
+### ⚡ Downloader de vídeos
 
 Ferramenta para download automatizado de vídeos.
 
@@ -45,34 +35,32 @@ Ferramenta para download automatizado de vídeos.
 * Geração de executável (.exe)
 * Foco em automação e praticidade
 
----
-
-### 📦 Catálogo de Produtos Interativo
-
-Sistema para organização e visualização de produtos.
-
-* Interface simples
-* Estrutura organizada
-* Aplicação de boas práticas
+[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-000?style=for-the-badge&logo=github)](https://github.com/PedroHMDosSantos/Course-Video-Downloader)
 
 ---
 
 ## 📈 Estatísticas
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=default" />
+<p align="left"> 
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PedroHMdossantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=" 
+  />
+  <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMdossantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
+     />
 </p>
 
----
-
-## 🎯 Objetivo
-
-Busco uma oportunidade de estágio em desenvolvimento, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a equipe.
-
----
 
 ## 📫 Contato
 
-* LinkedIn: https://linkedin.com/in/seuuser
-* Email: [seuemail@email.com](mailto:seuemail@email.com)
+  <a href="https://www.instagram.com/pedrohm.dos.santos">
+    <img src="https://img.shields.io/badge/Instagram-@pedrohm.dos.santos
+-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/pedrohm.dos.santos">
+    <img src="https://img.shields.io/badge/linkedin-
+Pedro Henrique Moreira dos Santos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="mailto:pedrohenriquemoreirads11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pedrohenriquemoreirads11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
