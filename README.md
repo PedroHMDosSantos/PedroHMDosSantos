@@ -41,7 +41,8 @@ Ferramenta para download automatizado de vídeos.
 
 ## 📈 Estatísticas
 
-<p align="left"> 
+<p align="left"
+  height="200"> 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=PedroHMdossantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=" 
   />
@@ -54,12 +55,10 @@ Ferramenta para download automatizado de vídeos.
 ## 📫 Contato
 
   <a href="https://www.instagram.com/pedrohm.dos.santos">
-    <img src="https://img.shields.io/badge/Instagram-@pedrohm.dos.santos
--E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@pedrohm.dos.santos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
   <a href="https://www.instagram.com/pedrohm.dos.santos">
-    <img src="https://img.shields.io/badge/linkedin-
-Pedro Henrique Moreira dos Santos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-Pedro Henrique Moreira dos Santos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
   <a href="mailto:pedrohenriquemoreirads11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-pedrohenriquemoreirads11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
