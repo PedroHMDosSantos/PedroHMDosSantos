@@ -31,6 +31,8 @@ Busco constantemente evoluir através de projetos práticos e estudos, com o obj
   <img src="https://skillicons.dev/icons?i=mysql,git,github" />
 </p>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 ---
 
 ## 📂 Projetos
