@@ -37,6 +37,17 @@ Ferramenta para download automatizado de vídeos.
 
 [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-000?style=for-the-badge&logo=github)](https://github.com/PedroHMDosSantos/Course-Video-Downloader)
 
+### 🖱️ ClickFlow
+
+Ferramenta de automação de cliques desenvolvida em Python, com foco em produtividade e praticidade.
+
+* Auto Clicker rápido e leve
+* Interface simples e intuitiva
+* Configuração de velocidade e comandos
+* Geração de executável (.exe)
+
+[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-000?style=for-the-badge&logo=github)](https://github.com/PedroHMDosSantos/ClickFlow)
+
 ---
 
 ## 📈 Estatísticas
