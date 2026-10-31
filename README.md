@@ -44,8 +44,9 @@ Aplicativo em Python para automatizar cliques, com controles de velocidade e com
 
 ## Estatísticas
 
-![Seguidores no GitHub](https://img.shields.io/github/followers/PedroHMDosSantos?style=for-the-badge&label=Seguidores)
-![Estrelas do CS2 Video Stretcher](https://img.shields.io/github/stars/PedroHMDosSantos/CS2-Video-Stretcher?style=for-the-badge&label=Estrelas%20no%20CS2%20Stretcher)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroHMdossantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMdossantos&theme=tokyonight&layout=compact&langs_count=8)
 
 ## Contato
 
