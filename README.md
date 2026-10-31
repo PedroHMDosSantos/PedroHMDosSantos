@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro
 
-🎓 Estudante de Engenharia de Software (3º semestre)
+🎓 Estudante de Engenharia de Software (4º semestre)
 💻 Focado em desenvolvimento backend e fullstack
 🔧 Experiência com suporte técnico de TI
 
