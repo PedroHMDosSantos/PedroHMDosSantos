@@ -1,76 +1,54 @@
-# 👋 Olá, eu sou o Pedro
+# Olá, eu sou o Pedro 👋
 
-🎓 Estudante de Engenharia de Software (4º semestre)
-💻 Focado em desenvolvimento backend e fullstack
+🎓 Estudante de Engenharia de Software na Universidade São Judas  
+💻 Desenvolvedor com foco em Python, backend e aplicações full stack  
 🔧 Experiência com suporte técnico de TI
 
----
+## Sobre mim
 
-## 👨‍💻 Sobre mim
+Curso Engenharia de Software e gosto de aprender criando projetos práticos. Na AASP, trabalhei como Jovem Aprendiz em suporte técnico, ajudando usuários e resolvendo problemas de sistemas.
 
-Atualmente curso Engenharia de Software na Universidade São Judas e venho desenvolvendo minhas habilidades na área de programação com foco em Python.
+## Tecnologias
 
-Tenho experiência como Jovem Aprendiz na AASP, atuando no suporte técnico de TI, onde desenvolvi habilidades em resolução de problemas, atendimento a usuários e suporte a sistemas.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Busco constantemente evoluir através de projetos práticos e estudos, com o objetivo de iniciar minha carreira como desenvolvedor.
+## Projetos em destaque
 
+### CS2 Video Stretcher
 
-## 🚀 Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScrpit-grey?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Aplicativo para esticar vídeos para widescreen sem cortar a imagem nem adicionar barras pretas. O projeto surgiu para resolver um problema nas gravações e nos clipes de Counter-Strike 2, que podiam sair com barras pretas e sem o esticamento horizontal visto durante o jogo. Também funciona com outros vídeos compatíveis com FFmpeg.
 
+- Aplicativo para Windows feito em Python e Tkinter
+- Conversão com FFmpeg e acompanhamento de progresso
+- Instalador para Windows que já inclui FFmpeg e FFprobe
 
-## 📂 Projetos
+[Ver código-fonte](https://github.com/PedroHMDosSantos/CS2-Video-Stretcher) · [Baixar instalador para Windows](https://github.com/PedroHMDosSantos/CS2-Video-Stretcher/blob/main/release/CS2VideoStretcher-Setup-0.1.0.exe)
 
-### ⚡ Downloader de vídeos
+### Course Video Downloader
 
-Ferramenta para download automatizado de vídeos.
+Ferramenta para automatizar o download e a conversão de vídeos para MP4.
 
-* Conversão para MP4
-* Geração de executável (.exe)
-* Foco em automação e praticidade
+[Ver projeto](https://github.com/PedroHMDosSantos/Course-Video-Downloader)
 
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-000?style=for-the-badge&logo=github)](https://github.com/PedroHMDosSantos/Course-Video-Downloader)
+### ClickFlow
 
-### 🖱️ ClickFlow
+Aplicativo em Python para automatizar cliques, com controles de velocidade e comandos.
 
-Ferramenta de automação de cliques desenvolvida em Python, com foco em produtividade e praticidade.
+[Ver projeto](https://github.com/PedroHMDosSantos/ClickFlow)
 
-* Auto Clicker rápido e leve
-* Interface simples e intuitiva
-* Configuração de velocidade e comandos
-* Geração de executável (.exe)
+## Estatísticas
 
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-000?style=for-the-badge&logo=github)](https://github.com/PedroHMDosSantos/ClickFlow)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroHMDosSantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
----
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMDosSantos&theme=tokyonight&layout=compact&langs_count=8)
 
-## 📈 Estatísticas
+## Contato
 
-<p align="left"
-  height="200"> 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PedroHMdossantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=" 
-  />
-  <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMdossantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
-     />
-</p>
-
-
-## 📫 Contato
-
-  <a href="https://www.instagram.com/pedrohm.dos.santos">
-    <img src="https://img.shields.io/badge/Instagram-@pedrohm.dos.santos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-
-  <a href="https://www.instagram.com/pedrohm.dos.santos">
-    <img src="https://img.shields.io/badge/linkedin-Pedro Henrique Moreira dos Santos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-  <a href="mailto:pedrohenriquemoreirads11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pedrohenriquemoreirads11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+[![Instagram](https://img.shields.io/badge/Instagram-@pedrohm.dos.santos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohm.dos.santos)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquemoreirads11@gmail.com)
