@@ -42,12 +42,6 @@ Aplicativo em Python para automatizar cliques, com controles de velocidade e com
 
 [Ver projeto](https://github.com/PedroHMDosSantos/ClickFlow)
 
-## Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroHMdossantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMdossantos&theme=tokyonight&layout=compact&langs_count=8)
-
 ## Contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-@pedrohm.dos.santos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohm.dos.santos)
