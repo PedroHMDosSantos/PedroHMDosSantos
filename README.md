@@ -44,11 +44,11 @@ Aplicativo em Python para automatizar cliques, com controles de velocidade e com
 
 ## Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroHMDosSantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMDosSantos&theme=tokyonight&layout=compact&langs_count=8)
+![Seguidores no GitHub](https://img.shields.io/github/followers/PedroHMDosSantos?style=for-the-badge&label=Seguidores)
+![Estrelas do CS2 Video Stretcher](https://img.shields.io/github/stars/PedroHMDosSantos/CS2-Video-Stretcher?style=for-the-badge&label=Estrelas%20no%20CS2%20Stretcher)
 
 ## Contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-@pedrohm.dos.santos-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohm.dos.santos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-moreira-dos-santos-31848b358)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquemoreirads11@gmail.com)
